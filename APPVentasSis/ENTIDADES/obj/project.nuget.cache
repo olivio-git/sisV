@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "BYKrPIzOuo6F/j7DLYzD8jE8fVKznDLpHdjJ5tlpkEptugXzlBwlNXaQ3gVcFVDHK6KUYj8enHZPqbf84GOLNQ==",
+  "success": true,
+  "projectFilePath": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\ENTIDADES\\ENTIDADES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oli_1\\.nuget\\packages\\dataannotationsextensions\\5.0.1.27\\dataannotationsextensions.5.0.1.27.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"DataAnnotationsExtensions 5.0.1.27\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net6.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "DataAnnotationsExtensions",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

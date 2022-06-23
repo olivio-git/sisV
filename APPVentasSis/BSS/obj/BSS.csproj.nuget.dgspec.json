@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\BSS\\BSS.csproj": {}
+  },
+  "projects": {
+    "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\BSS\\BSS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\BSS\\BSS.csproj",
+        "projectName": "BSS",
+        "projectPath": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\BSS\\BSS.csproj",
+        "packagesPath": "C:\\Users\\oli_1\\.nuget\\packages\\",
+        "outputPath": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\BSS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\oli_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\DAL\\DAL.csproj"
+              },
+              "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\ENTIDADES\\ENTIDADES.csproj": {
+                "projectPath": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\ENTIDADES\\ENTIDADES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\oli_1\\.nuget\\packages\\",
+        "outputPath": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\oli_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\ENTIDADES\\ENTIDADES.csproj": {
+                "projectPath": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\ENTIDADES\\ENTIDADES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\ENTIDADES\\ENTIDADES.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\ENTIDADES\\ENTIDADES.csproj",
+        "projectName": "ENTIDADES",
+        "projectPath": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\ENTIDADES\\ENTIDADES.csproj",
+        "packagesPath": "C:\\Users\\oli_1\\.nuget\\packages\\",
+        "outputPath": "D:\\UPDS\\DESARROLLO_SISTEMAS_1\\VentSis\\APPVentasSis\\ENTIDADES\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\oli_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DataAnnotationsExtensions": {
+              "target": "Package",
+              "version": "[5.0.1.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
